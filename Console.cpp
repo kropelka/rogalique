@@ -28,10 +28,8 @@ Console::Console(const FontConfig& fontConfig, unsigned charsX, unsigned charsY,
     {
         for(unsigned y = 0; y < charsY; ++y)
         {
-
-
-
-
+        }
+    }
 
 
 }
